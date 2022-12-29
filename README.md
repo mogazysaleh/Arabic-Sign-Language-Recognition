@@ -1,0 +1,1 @@
+This project was part of a summer intern at Zewail City of Science and Technology. The internship's goal was to design and create a deep learning model able to detect and recognize sign languages. The model was trained using sign videos from WLASL. The model has been finished but will be further upgraded for better accuracy.
